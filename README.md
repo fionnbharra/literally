@@ -1,32 +1,32 @@
-literally
+awesome
 =============
 
-A browser plugin that replaces occurrences of the word 'literally' with 'figuratively'.
-That's literally all it does.
+A browser plugin that replaces occurrences of the word 'awesome' with 'grand'.
+That's awesome all it does.
 
 Installation
 ------------
 
 ### Chrome
 
-The plugin may be found on the [Chrome Extension Store](https://chrome.google.com/webstore/detail/literally/odlbpehkpefnmehgdofblnagjpimaanh/details).
+The plugin may be found on the [Chrome Extension Store](https://chrome.google.com/webstore/detail/awesome/odlbpehkpefnmehgdofblnagjpimaanh/details).
 
 Alternatively:
 
-1. Download the [.crx file](https://github.com/lazerwalker/literally/blob/master/literally.crx?raw=true).
-2. In Chrome, choose Window > Extensions.  Drag `literally.crx` into the page that appears.
+1. Download the [.crx file](https://github.com/lazerwalker/awesome/blob/master/awesome.crx?raw=true).
+2. In Chrome, choose Window > Extensions.  Drag `awesome.crx` into the page that appears.
 
 
 ### Safari
 
-1. Download the [.safariextz file](https://github.com/lazerwalker/literally/blob/master/literally.safariextz?raw=true).
+1. Download the [.safariextz file](https://github.com/lazerwalker/awesome/blob/master/awesome.safariextz?raw=true).
 2. Double-click on it. Follow Safari's instructions to approve the installation.
 
 ### Firefox
 
-1. Download the [.xpi file](https://github.com/lazerwalker/literally/blob/master/literally.xpi?raw=true).
+1. Download the [.xpi file](https://github.com/lazerwalker/awesome/blob/master/awesome.xpi?raw=true).
 2. In Firefox, choose Tools > Add-ons. Click on the wrench icon at the top of the tab and select "Install Add-on From File..."
-3. Locate `literally.xpi` and follow Firefox's instructions to approve the installation.
+3. Locate `awesome.xpi` and follow Firefox's instructions to approve the installation.
 
 Attribution
 -----------

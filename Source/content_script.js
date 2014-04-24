@@ -30,10 +30,10 @@ function walk(node)
 function handleText(textNode)
 {
 	var v = textNode.nodeValue;
-	
-	v = v.replace(/\bliterally\b/g, "figuratively");
-	v = v.replace(/\bLiterally\b/g, "Figuratively");
-	v = v.replace(/\bLITERALLY\b/g, "FIGURATIVELY");
+
+	v = v.replace(/\bawesome\b/g, "grand");
+	v = v.replace(/\bawesome\b/g, "grand");
+	v = v.replace(/\bawesome\b/g, "grand");
 
 	textNode.nodeValue = v;
 }

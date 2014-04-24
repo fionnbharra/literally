@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>9537.75.14</string>
 	<key>CFBundleDisplayName</key>
-	<string>Literally</string>
+	<string>awesome</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.lazerwalker.literally</string>
+	<string>com.lazerwalker.awesome</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -29,7 +29,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces the word 'literally' with 'figuratively'. That's literally all it does.</string>
+	<string>Replaces the word 'awesome' with 'grand'. That's awesome all it does.</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -43,6 +43,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>https://github.com/lazerwalker/literally</string>
+	<string>https://github.com/lazerwalker/awesome</string>
 </dict>
 </plist>
