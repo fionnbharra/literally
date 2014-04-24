@@ -2,7 +2,7 @@ awesome
 =============
 
 A browser plugin that replaces occurrences of the word 'awesome' with 'grand'.
-That's awesome all it does.
+That's grand.
 
 Installation
 ------------
