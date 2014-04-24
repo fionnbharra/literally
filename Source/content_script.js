@@ -31,9 +31,9 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bawesome\b/g, "grand");
-	v = v.replace(/\bawesome\b/g, "grand");
-	v = v.replace(/\bawesome\b/g, "grand");
+	v = v.replace(/\bawesome\b/g, "pooo pee poo peee");
+	v = v.replace(/\bawesome\b/g, "pooo pee poo peee");
+	v = v.replace(/\bawesome\b/g, "pooo pee poo peee");
 
 	textNode.nodeValue = v;
 }

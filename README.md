@@ -1,8 +1,8 @@
 awesome
 =============
 
-A browser plugin that replaces occurrences of the word 'awesome' with 'grand'.
-That's grand.
+A browser plugin that replaces occurrences of the word 'awesome' with 'pooo pee poo peee'.
+That's pooo pee poo peee.
 
 Installation
 ------------

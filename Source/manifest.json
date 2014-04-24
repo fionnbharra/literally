@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "awesome",
 	"version": "1.0",
-	"description": "Replaces the word 'awesome' with 'grand'. That's awesome all it does.",
+	"description": "Replaces the word 'awesome' with 'pooo pee poo peee'. That's awesome all it does.",
 	"content_scripts":
 	[
 		{
